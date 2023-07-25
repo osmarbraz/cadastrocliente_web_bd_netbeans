@@ -6,8 +6,8 @@
         <title>Cadastro de Cliente</title>
     </head>
     <body>
-        <h2>Cadastro de Cleinte - Opções do Menu</h1>
-        <h3><a href="FrmCadastroCliente.jsp">1 - Incluir</a></h3>
-        <h3><a href="FrmClienteListar.jsp">2 - Listar(Alterar, Excluir)</a></h3>
+        <h1>Cadastro de Cleinte - Opções do Menu</h1>
+        <h2><a href="FrmCadastroCliente.jsp">1 - Incluir</a></h2>
+        <h2><a href="FrmClienteListar.jsp">2 - Listar(Alterar, Excluir)</a></h2>
 </body>
 </html>
