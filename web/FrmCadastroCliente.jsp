@@ -25,8 +25,8 @@
                 <% }%>
 
                 <input type=hidden name="id" value="<%=request.getParameter("id")%>">
-                Nome: <input type=text name="nome" value="<%=cliente != null ? cliente.getNome() : ""%>"><p>
-                    CPF: <input type=text name="cpf" value="<%=cliente != null ? cliente.getCpf() : ""%>"> <p>
+                Nome: <input type=text name="nome" value="<%=cliente != null ? cliente.getNome() : ""%>"><br><br>
+                    CPF: <input type=text name="cpf" value="<%=cliente != null ? cliente.getCpf() : ""%>"> <br><br>
                     <input type="reset" value="Limpar">
                 <input type="submit" name="Cadastrar" value="Cadastrar"> <p>		
             </form>

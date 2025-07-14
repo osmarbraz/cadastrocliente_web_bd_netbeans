@@ -4,7 +4,7 @@ create database if not exists cliente;
 #entrar no database cliente
 use cliente;
 
-#remove as tabelas para recriá-las
+#remove as tabelas para recriÃ¡-las
 drop table if exists CLIENTE;
 
 #cria a tabela de cliente
